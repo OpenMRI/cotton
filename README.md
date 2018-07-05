@@ -1,1 +1,2 @@
-# Project cotton, a fully scalable high-performance MRI console
+# Project cotton:
+# a fully scalable high-performance MRI console
